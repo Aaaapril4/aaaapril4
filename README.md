@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![April's github stats](https://github-readme-stats.vercel.app/api?username=aaaapril4&show_icons=true&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![April's github stats](https://github-readme-stats.vercel.app/api?username=aaaapril4&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aaaapril4/aaaapril4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
